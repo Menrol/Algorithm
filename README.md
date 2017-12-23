@@ -1,2 +1,2 @@
 # Algorithm
-LeetCode solution
+LeetCode solutions and some other problems
